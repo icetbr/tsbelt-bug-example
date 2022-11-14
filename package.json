@@ -1,0 +1,15 @@
+{
+  "name": "tsbelt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@mobily/ts-belt": "^3.13.1"
+  }
+}
